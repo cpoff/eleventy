@@ -1,20 +1,20 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Fire Kevin Sumlin!",
+  "url": "https://firesumlin.com/",
+  "description": "Fire Kevin Sumlin from his job as head football coach at the University of Arizona.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Enough is enough",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://firesumlin.com/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://firesumlin.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
+    "name": "UA Alum",
     "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "url": "https://firesumlin.com/about-me/"
   }
 }
